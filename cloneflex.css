@@ -1,0 +1,246 @@
+
+nav{
+    position:sticky;
+    top:0px;
+}
+
+#flex-property{
+    
+    border:1px solid black;
+    background-color: #333333;
+    display:flex;
+    flex-direction:row; 
+    width: 1000px;
+    
+    
+}
+
+.flex-item{
+    /* border:1px solid black; */
+    height: 50px; 
+    width: 70px;
+    text-align:center;
+    font-size:small;
+    background-color: #333333;
+    line-height: 50px;
+    color: whitesmoke;
+}
+
+#flex-part1{
+    height:50vh;
+    text-align:center;
+    border:1px solid black;
+    background-color: black;
+    color: whitesmoke;
+    aligh-items:center;
+    width: 1000px;
+    background-image:url("../assets/IMG-20240614-WA0020.jpg");
+    
+}
+#con{
+    margin-top:300px;
+}
+
+#flex-part2{
+    height:50vh;
+    text-align:center;
+    border:1px solid black;
+    background-color: #333333;
+    color:whitesmoke;
+    aligh-items:center;
+    width: 1000px;
+}
+
+img{
+    height:500px;
+    width: 700px;
+}
+
+#trial{
+    background-color: red;
+    color: white;
+    width: 600px;
+    height: 100px;
+}
+
+button{
+    background-color: red;
+    color: white;
+    width: 300px;
+    height: 50x;
+    font-size:x-large;
+}
+
+
+/* input{
+    background-color: blue;
+    color: white;
+    width:200px;
+    
+} */
+#flex-part3{
+    height:50vh;
+    text-align:center;
+    border:1px solid black;
+    background-color: whitesmoke;
+    color:#333333;
+    aligh-items:center;
+    width: 1000px;
+}
+#read{
+    background-color: blue;
+    color: whitemoke;
+    aligh-items:center;
+    
+}
+
+#flex-part4{
+    height:45vh;
+    text-align:center;
+    border:1px solid black;
+    background-color: blue;
+    color:whitesmoke;
+    aligh-items:center;
+    width: 1000px;
+    background-image:url("../assets/IMG-20240614-WA0021.jpg");
+    font-size:x-large;
+    
+    
+}
+
+#flex-part5{
+    height:50vh;
+    text-align:center;
+    border:1px solid black;
+    background-color: whitesmoke;
+    color:black;
+    /* aligh-items:center; */
+    justify-content:space-evenly;
+    display:flex;
+    width:1000px;
+    font-size:xx-large;
+    aligh-items:strech;
+}
+
+#flex-image{
+    width:400px;
+    justify-content:space-evenly;
+    margin-top:250px;
+}
+#card{
+    width:400px;
+    height: 400px;;
+    
+}
+
+#flex-content{
+    width:500px;
+    height: 700px;
+    justify-content:flex-end;
+    margin-top:120px;
+}
+#flex-part6{
+    display:flex;
+    height:20vh;
+    width:1000px;
+    text-align:center;
+    border:1px solid black;
+    background-color: whitesmoke;
+    color:#333333;
+    aligh-items:center;
+}
+
+
+#flex-shop{
+    border:1px solid black;
+    background-color: #333333;
+    display:flex;
+    flex-direction:column; 
+    width: 250px;
+    
+}
+
+.flex-items{
+    /* border:1px solid black; */
+    height: 50px; 
+    width: 250px;
+    text-align:center;
+    font-size:small;
+    background-color: #333333;
+    line-height: 50px;
+    color: white;
+}
+
+#flex-store{
+    border:1px solid black;
+    background-color: #333333;
+    display:flex;
+    flex-direction:column; 
+    width: 250px;
+}
+
+
+.flex-stores{
+    height: 50px; 
+    width: 250px;
+    text-align:center;
+    font-size:small;
+    background-color: #333333;
+    line-height: 50px;
+    color: white;
+}
+
+#flex-education{
+    border:1px solid black;
+    background-color: #333333;
+    display:flex;
+    flex-direction:column; 
+    width: 250px;
+}
+
+.flex-edu{
+    height: 50px; 
+    width: 250px;
+    text-align:center;
+    font-size:small;
+    background-color: #333333;
+    line-height: 50px;
+    color: white;
+}
+
+#flex-about{
+    border:1px solid black;
+    background-color: #333333;
+    display:flex;
+    flex-direction:column; 
+    width: 250;
+}
+
+.flex-ab{
+    height: 50px; 
+    width: 250px;
+    text-align:center;
+    font-size:small;
+    background-color: #333333;
+    line-height: 50px;
+    color: white;
+}
+
+
+#flex-part7{
+    height:70px;
+    text-align:center;
+    border:1px solid black;
+    background-color: #333333;
+    color:whitesmoke;
+    aligh-items:center;
+    
+    width:1000px;
+}
+
+
+
+
+#c1{
+    margin-top:160px;
+}
